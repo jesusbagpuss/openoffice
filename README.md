@@ -1,4 +1,2 @@
-# openoffice
-OpenOffice Toolkit
-
-http://bazaar.eprints.org/164/
+# libreoffice
+LibreOffice Toolkit
